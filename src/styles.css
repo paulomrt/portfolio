@@ -1,2 +1,4 @@
 @import './styles-base.css';
 @import './styles-components.css';
+
+.portrait-frame img { filter: none; }
