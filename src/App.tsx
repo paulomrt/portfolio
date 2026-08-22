@@ -94,23 +94,8 @@ function App() {
               <img src={PORTRAIT} alt="Paulo Martins" />
               <div className="portrait-label">PAULO MARTINS</div>
             </div>
-            <div className="hero-node node-a" aria-hidden="true"><span />S&OP</div>
-            <div className="hero-node node-b" aria-hidden="true"><span />DDMRP</div>
-            <div className="hero-node node-c" aria-hidden="true"><span />DATA</div>
           </div>
         </section>
-
-        <div className="capability-rail" aria-hidden="true">
-          <div>
-            <span>SUPPLY CHAIN</span><i />
-            <span>ANALYTICS</span><i />
-            <span>S&OP / S&OE</span><i />
-            <span>DDMRP</span><i />
-            <span>DATA PRODUCTS</span><i />
-            <span>AI-ASSISTED DEVELOPMENT</span><i />
-            <span>SPEC-DRIVEN DEVELOPMENT</span>
-          </div>
-        </div>
 
         <section id="focus" className="focus section-pad section-divider">
           <div className="section-heading" data-reveal>
