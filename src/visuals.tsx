@@ -27,9 +27,9 @@ export function StockHubVisual() {
         <div className="buffer-chart">
           <div className="buffer-title">DDMRP buffer</div>
           <div className="buffer-stack">
-            <span className="zone red" />
-            <span className="zone yellow" />
             <span className="zone green" />
+            <span className="zone yellow" />
+            <span className="zone red" />
           </div>
           <div className="buffer-line one" />
           <div className="buffer-line two" />
